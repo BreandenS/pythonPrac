@@ -1,0 +1,11 @@
+CustomerID,Product,Feedback,Rating,Date
+1,Product A,Great product,5,2024-01-15
+2,Product B,Not bad,3,2024-01-22
+3,Product A,Loved it,4,2024-02-03
+4,Product C,Could be better,2,2024-02-15
+5,Product B,Very good,4,2024-03-01
+6,Product A,Excellent,5,2024-03-20
+7,Product C,Very disappointing,1,2024-03-25
+8,Product B,Okay,3,2024-04-10
+9,Product A,Good quality,4,2024-04-15
+10,Product C,Not worth the price,2,2024-04-20
